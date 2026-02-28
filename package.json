@@ -11,7 +11,7 @@
     "@material-ui/core": "^3.1.1",
     "devicon-react": "^1.1.1",
     "i": "^0.3.6",
-    "npm": "^6.4.1",
+    "npm": "^11.9.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-fittext": "^1.0.0",
